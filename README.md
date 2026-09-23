@@ -1,8 +1,9 @@
 # TestLeafPlaywrightLearning
-HomeAssignment
+HomeAssignment added for Week4
 
 
 **Week4Day1 **-- contains testscript for "Handle prompt dialog and  enter the value'Playwright' when the prompt is displayed"
+**Github Link:** https://github.com/msingh095/TestLeafPlaywrightLearning/blob/main/HomeAssignment/Week4Day1/handlePromptDialog.spec.ts
 1 Launch the URL: https://www.leafground.com/alert.xhtml
 2 Click on "Prompt Dialog".
 3 Handle the JavaScript prompt dialog using Playwright.
@@ -10,6 +11,7 @@ HomeAssignment
 
 
 **Week4Day2 **-- contains testscript for Automating Alert & Frame Interactions  
+**Github Link:**: https://github.com/msingh095/TestLeafPlaywrightLearning/blob/main/HomeAssignment/Week4Day2/handleAlert.spec.ts
 1 Launch the browser
 2 Navigate to the URL- https://www.w3schools.com/js/tryit.asp?filename=tryjs_confirm
 3 Switch to the iFrame containing the "Try it" button
