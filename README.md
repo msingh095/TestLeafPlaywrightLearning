@@ -9,7 +9,7 @@ HomeAssignment
 4 Enter the value "Playwright" in the prompt using the accept() method.
 
 
-**Week4Day2 **-- contains testscript for "Handle alert"  
+**Week4Day2 **-- contains testscript for Automating Alert & Frame Interactions  
 1 Launch the browser
 2 Navigate to the URL- https://www.w3schools.com/js/tryit.asp?filename=tryjs_confirm
 3 Switch to the iFrame containing the "Try it" button
